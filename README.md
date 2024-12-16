@@ -1,4 +1,3 @@
 # Vana
-Vana data hero
-0xdd07e39AA1B7f21ffa5F6ffACb2bA66a6Ca4ba15
-https://evm-rpc-vana.josephtran.xyz
+vana data hero
+0x59d13A74F6625c13af3E62bF925C00b0ADFE89Ce
